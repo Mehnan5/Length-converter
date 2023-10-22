@@ -1,0 +1,36 @@
+*{
+    margin:0px;
+    padding:0px;
+}
+.h1 h1{
+    font-family:'Kanit', sans-serif;
+    text-align:center;
+    margin-top:40px;
+    margin-left:540px;
+    width:300px;
+    border:2px black solid;
+}
+label{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size:25px;
+}
+#container{
+    margin:25px auto 0px auto;
+    border-radius:18px;
+    width:50%;
+    text-align:center;
+    background-color:seagreen;
+    padding:25px;
+}
+.input-div, .divv{
+    display:inline-block;
+}
+.input{
+    padding:5px 10px;
+    margin:10px;
+    font-size:30px;
+    text-align:center;
+    width:200px;
+    font-weight:bold;
+    font-family: 'Times New Roman', Times, serif;
+}
